@@ -6,8 +6,7 @@
 #  /_/·/_/·/_/\____/_.___/_/_/\___/·
 #  ································· */
 
-@media (max-width: 650px) and (min-width: 320px) {
-
+@media screen and (max-width: 767px) {
     .main_section {
         padding: 5%;
     }
@@ -26,7 +25,10 @@
         display: initial;
     }
 
-    .mentions {
+    .event-list {
         display: initial;
+    }
+    .contact {
+     
     }
 }
