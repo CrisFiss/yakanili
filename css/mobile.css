@@ -158,6 +158,78 @@
     .social-link {
 
     }
+
+
+    .containercatalogo {
+        /* border: 1px solid red; */
+        max-width: 1000px;
+        /* width: 100%; */
+        height: inherit;
+        margin: 0 auto;
+        padding-left: 5%;
+        padding-right: 5%;
+        display: inherit;
+        flex: 1;
+        flex-wrap: inherit;
+        justify-content: inherit;
+        align-items: inherit;
+        font-size: 2em;
+    }
+    .col-8 p{
+        font-size: 1.05em;
+    }
+    .catalogo_btn {
+        width: 60%;
+        border: 0px;
+        border-radius: 2px;
+        padding: var(--space);
+        color: var(--white-color);
+        background-color: var(--green-color);
+        cursor: pointer;
+    }
+    .contarecomendaciones {
+        /* border: 1px solid red; */
+        max-width: 1000px;
+        /* width: 100%; */
+        height: inherit;
+        margin: 0 auto;
+        padding-left: 5%;
+        padding-right: 5%;
+        display: inherit;
+        flex: 1;
+        flex-wrap: inherit;
+        justify-content: inherit;
+        align-items: inherit;
+        font-size: 2em;
+    }
+        .contarecomendaciones ul {
+            margin: 0 auto;
+            padding: 0;
+            width: 85%;
+        }
+
+        .contarecomendaciones li {
+            border-bottom: 1px solid var(--green-color);
+            list-style: none;
+            margin: 0px;
+            padding-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .contarecomendaciones li p{
+            font-size: 1.03em;
+        }
+
+        .contarecomendaciones a {
+            color: #214E34;
+            font-size: 10px;
+            font-weight: 900;
+            text-align: left;
+            text-transform: uppercase;
+            text-decoration: none;
+            letter-spacing: 2px;
+            font-size: 0.8em;
+        }
 }
 
 
