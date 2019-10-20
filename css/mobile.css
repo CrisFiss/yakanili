@@ -228,6 +228,10 @@
             letter-spacing: 2px;
             font-size: 0.8em;
         }
+
+    .social {
+        padding-right: 6%;
+    }
 }
 
 
