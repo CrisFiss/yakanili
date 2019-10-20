@@ -6,23 +6,27 @@
 #  /_/·/_/·/_/\____/_.___/_/_/\___/·
 #  ································· */
 
-@media (max-width: 650px) {
+@media (max-width: 650px) and (min-width: 320px) {
 
-  .main_section{
-    padding: 5%;
-  }
-  .products{
-    display: block;
-    height: auto;
-    padding: 5%;
-  }
-  .product{
-    margin-top: auto;
-  }
-  .beneficios{
-    display: initial;
-  }
-  .mentions{
-    display: initial;
-  }
+    .main_section {
+        padding: 5%;
+    }
+
+    .products {
+        display: block;
+        height: auto;
+        padding: 5%;
+    }
+
+    .product {
+        margin-top: auto;
+    }
+
+    .beneficios {
+        display: initial;
+    }
+
+    .mentions {
+        display: initial;
+    }
 }
