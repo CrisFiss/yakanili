@@ -348,6 +348,51 @@ footer {
     padding-left: 3%;
     padding-right: 3%;
 }
+
 .contact a{
     color: var(--green-color);
+}
+
+.contarecomendaciones {
+    /* border: 1px solid red; */
+    max-width: 1000px;
+    /* width: 100%; */
+    height: inherit;
+    margin: 0 auto;
+    display: inherit;
+    flex: 1;
+    flex-wrap: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+}
+.contarecomendaciones ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 85%;
+}
+.contarecomendaciones li {
+    border-bottom: 1px solid var(--green-color);
+    list-style: none;
+    margin: 0px;
+    padding-bottom: 30px;
+}
+
+.contarecomendaciones a {
+    color: #214E34;
+    font-size: 10px;
+    font-weight: 900;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.catalogo_btn {
+    width: 25%;
+    border: 0px;
+    border-radius: 2px;
+    padding: var(--space);
+    color: var(--white-color);
+    background-color: var(--green-color);
+    cursor: pointer;
 }
