@@ -226,7 +226,7 @@ hr{
     justify-content: inherit;
     align-items: center;
     align-content: center;
-    text-align: center;
+    text-align: left;
 }
 .contenedorsito {
     width: 100%;
