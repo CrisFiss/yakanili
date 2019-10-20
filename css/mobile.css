@@ -129,7 +129,7 @@
     .contenedosito {
         height: auto;
         padding:0px;
-        text-align: left;
+        text-align: center;
         font-size: 1.3em;
         margin: 0px;
         
@@ -228,6 +228,10 @@
             letter-spacing: 2px;
             font-size: 0.8em;
         }
+
+    .social {
+        padding-right: 6%;
+    }
 }
 
 
