@@ -218,6 +218,8 @@ hr{
     /* width: 100%; */
     height: inherit;
     margin: 0 auto;
+    padding-left: 3%;
+    padding-right: 3%;
     display: inherit;
     flex: 1;
     flex-wrap: inherit;
@@ -343,6 +345,8 @@ footer {
     background-color: var(--black-color);
     font-size: var(--normal);
     justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
 }
 .contact a{
     color: var(--green-color);
