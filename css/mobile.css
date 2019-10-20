@@ -70,7 +70,7 @@
 
 
     nav a {
-        font-size: 26px;
+        font-size: 30px;
     }
     
 
@@ -130,20 +130,17 @@
         height: auto;
         padding:0px;
         text-align: center;
-        font-size: 1.2em;
+        font-size: 1.3em;
         margin: 0px;
         
     }
 
     .contenedosito p {
-        font-size: 1.05em;
+        font-size: 1.07em;
         margin: 0px;
         padding: 0px;
     }
-    .contenedosito h3 {
-        margin: 1%;
-        padding: 0px;
-    }
+
     
     .footer {
         display: block;
@@ -152,7 +149,7 @@
     
     }
     .option {
-        font-size: 1.5em;
+        font-size: 1.7em;
     }
     
     .social-link {
@@ -178,8 +175,9 @@
     .col-8 p{
         font-size: 1.05em;
     }
+
     .catalogo_btn {
-        width: 60%;
+        width: 35%;
         border: 0px;
         border-radius: 2px;
         padding: var(--space);
