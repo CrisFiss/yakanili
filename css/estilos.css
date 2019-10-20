@@ -226,7 +226,7 @@ hr{
     justify-content: inherit;
     align-items: center;
     align-content: center;
-    text-align: left;
+    text-align: center;
 }
 .contenedorsito {
     width: 100%;
@@ -254,6 +254,7 @@ hr{
 }
 
 .social {
+    padding-right: 0%;
 }
 
 .social-link {
