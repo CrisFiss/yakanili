@@ -131,7 +131,7 @@
         padding:0px;
         text-align: center;
         font-size: 1.3em;
-        margin: -5px;
+        margin: 0px;
         
     }
 
@@ -230,7 +230,7 @@
         }
 
     .social {
-        padding-right: 3%;
+        padding-right: 0%;
     }
 }
 
